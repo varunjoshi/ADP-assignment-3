@@ -1,0 +1,13 @@
+init
+mkdir
+init
+rm
+echo
+cd
+git pull origin main
+git commit -m
+git push -u
+git log
+git diff
+git status
+ List.txt
